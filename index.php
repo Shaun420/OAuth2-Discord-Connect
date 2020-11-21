@@ -1,3 +1,5 @@
+<?php
+/*
 Project: OAuth2-Discord-Connect
 File: index.php
 Author: Shaun420
@@ -11,8 +13,8 @@ You may obtain a copy of the License at
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and limitations under the License.
+*/
 
-<?php
 // Keep variables ready for further requests.
 // You can obtain your client id and client secret from https://discord.com/developers/applications
 $client_id = "[YOUR_CLIENT_ID]";
